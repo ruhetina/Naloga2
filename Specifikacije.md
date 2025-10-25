@@ -7,9 +7,10 @@
 | Ime in priimek              | Vloga              |
 |-----------------------------|--------------------|
 | **Tilen Jerebič**           | Vodja projekta     |  
-| **David Ruhitelj**          | Razvijalka         |
+| **David Ruhitelj**          | Razvijalkec        |
 | **Anastasija Kovalenko**    | Tester             |
 
+```
 <!DOCTYPE html>
 <html lang="sl">
 <head>
@@ -21,4 +22,4 @@
     <p>To je primer osnovne HTML strukture z imenom in opisom strani.</p>
 </body>
 </html>
-
+```
