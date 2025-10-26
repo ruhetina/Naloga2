@@ -36,3 +36,12 @@ Na koncu se prikaže povzetek cene in konfiguracije.*
 Filtriranje po kategorijah: strojna oprema, programska oprema, igre, umetna inteligenca.*
 4. **📊Primerjava komponent** *Uporabnik izbere dve komponenti (npr. dve grafični kartici) in stran prikaže primerjavo: hitrost, cena, poraba energije itd.
 Grafični prikaz razlik (npr. stolpčni graf).*
+
+## Izgled
+
+- **Preproste ozadje**
+- Visokokakovostne slike
+- Uporablenje razmik med odstavki
+- **Enostavna uporaba**
+
+  [Reference website](https://www.techspot.com/)
