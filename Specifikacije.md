@@ -10,10 +10,16 @@
 | **David Ruhitelj**          | Razvijalkec        |
 | **Anastasija Kovalenko**    | Tester             |
 
-<div>
-  <h1>Moja Spletna Stran</h1>
-  <p>To je predstavitvena spletna stran, ki prikazuje osnovne informacije o našem projektu.</p>
-</div>
+<!DOCTYPE html>
+<html lang="sl">
+<head>
+  <meta charset="UTF-8">
+</head>
+<body>
+  <h1>TechZone</h1>
+  <p>To je kratek opis moje spletne strani.</p>
+</body>
+</html>
 
 ```html
 <h1>TechZone</h1>
