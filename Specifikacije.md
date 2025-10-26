@@ -1,5 +1,5 @@
 # TechZone
-![Logotip](1f310.png)
+![Logotip](1f311.png)
 
 
 ## Sodelujoči pri razvoju spletne strani
