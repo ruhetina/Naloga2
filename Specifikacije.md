@@ -6,7 +6,7 @@
 
 | Ime in priimek              | Vloga              |
 |-----------------------------|--------------------|
-| **Tilen Jerebič**           | Vodja projekta     |  
+| **Tilen Jerebic**           | Vodja projekta     |  
 | **David Ruhitelj**          | Razvijalkec        |
 | **Anastasija Kovalenko**    | Tester             |
 
